@@ -1,32 +1,52 @@
 [
   {
-      "id": "1772158911532",
-      "title": "Evening Classroom Live Wallpaper",
-      "previewURL": "https://www.desktophut.com/images/thumb_1668458310_220573.jpg",
-      "videoURL": "https://www.desktophut.com/files/1668458310-1668458310-evening-classroom-live-wallpaper.mp4"
+    "id": "1772158911532",
+    "title": "Evening Classroom Live Wallpaper",
+    "previewURL": "https://www.desktophut.com/images/thumb_1668458310_220573.jpg",
+    "videoURL": "https://www.desktophut.com/files/1668458310-1668458310-evening-classroom-live-wallpaper.mp4",
+    "categories": [
+      "Anime",
+      "Background"
+    ]
   },
   {
-      "id": "1772158897825",
-      "title": "Moonlight Live Wallpaper",
-      "previewURL": "https://www.desktophut.com/images/1725020955.webp",
-      "videoURL": "https://www.desktophut.com/files/CDPg7ZJFQnWAXPm_Moonlight%20Live%20Wallpaper.mp4"
+    "id": "1772158897825",
+    "title": "Moonlight Live Wallpaper",
+    "previewURL": "https://www.desktophut.com/images/1725020955.webp",
+    "videoURL": "https://www.desktophut.com/files/CDPg7ZJFQnWAXPm_Moonlight%20Live%20Wallpaper.mp4",
+    "categories": [
+      "Nature",
+      "Background"
+    ]
   },
   {
-      "id": "1772158874540",
-      "title": "Cozy Autumn Coffee Live Wallpaper",
-      "previewURL": "https://www.desktophut.com/images/1729072468.webp",
-      "videoURL": "https://www.desktophut.com/files/SyiRpBSi8prcqhC_Cozy%20Autumn%20Coffee_5_111328.mp4"
+    "id": "1772158874540",
+    "title": "Cozy Autumn Coffee Live Wallpaper",
+    "previewURL": "https://www.desktophut.com/images/1729072468.webp",
+    "videoURL": "https://www.desktophut.com/files/SyiRpBSi8prcqhC_Cozy%20Autumn%20Coffee_5_111328.mp4",
+    "categories": [
+      "Life",
+      "Cozy"
+    ]
   },
   {
-      "id": "1772158814141",
-      "title": "Totoro Sleeping Under Tree Live Wallpaper",
-      "previewURL": "https://www.desktophut.com/images/EK3DzmisLn-Sequence03Rtgrt2Prob4.webp",
-      "videoURL": "https://www.desktophut.com/files/84NIUTQdGE-Sequence03Rtgrt2Prob4.mp4"
-  },  
+    "id": "1772158814141",
+    "title": "Totoro Sleeping Under Tree Live Wallpaper",
+    "previewURL": "https://www.desktophut.com/images/EK3DzmisLn-Sequence03Rtgrt2Prob4.webp",
+    "videoURL": "https://www.desktophut.com/files/84NIUTQdGE-Sequence03Rtgrt2Prob4.mp4",
+    "categories": [
+      "Anime",
+      "Nature"
+    ]
+  },
   {
-      "id": "1772158085965",
-      "title": "Cat Sunset Window View Live Wallpaper",
-      "previewURL": "https://www.desktophut.com/images/jeZz03tT6X-wallpaper.webp",
-      "videoURL": "https://www.desktophut.com/files/s2xjSr0Amu-wallpaper.mp4"
+    "id": "1772158085965",
+    "title": "Cat Sunset Window View Live Wallpaper",
+    "previewURL": "https://www.desktophut.com/images/jeZz03tT6X-wallpaper.webp",
+    "videoURL": "https://www.desktophut.com/files/s2xjSr0Amu-wallpaper.mp4",
+    "categories": [
+      "Anime",
+      "Animals"
+    ]
   }
 ]
